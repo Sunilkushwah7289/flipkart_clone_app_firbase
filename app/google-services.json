@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739229123460",
+    "project_id": "flipkart-clone-app-f76d3",
+    "storage_bucket": "flipkart-clone-app-f76d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739229123460:android:0ffd53d8620fa5945493d1",
+        "android_client_info": {
+          "package_name": "com.example.flipkart_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739229123460-r966jp9ug350ribp5ikqmoj4at24ghsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzy67mVmMsGVFpSZfW7q538w_d-6SRtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739229123460-r966jp9ug350ribp5ikqmoj4at24ghsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
